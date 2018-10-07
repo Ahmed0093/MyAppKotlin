@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyAppKotlin</string>
+    <string name="title_home">Home</string>
+    <string name="title_expense">Expense</string>
+    <string name="title_income">Income</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="custom_name">amount of money</string>
+    <string name="custom_email">category</string>
+</resources>
